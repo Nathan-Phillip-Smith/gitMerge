@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 this is a red donut 
+=======
+this is a donut
+>>>>>>> donut
